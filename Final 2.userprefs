@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scene\spider.js">
+    <Files>
+      <File FileName="Assets\quiz.js" Line="12" Column="85" />
+      <File FileName="Assets\Scene\SampleApp.js" Line="145" Column="97" />
+      <File FileName="Assets\Scene\spider.js" Line="19" Column="1" />
+      <File FileName="Assets\popup.js" Line="1" Column="1" />
+      <File FileName="Assets\Scene\deer.js" Line="1" Column="1" />
+      <File FileName="Assets\popup_button.js" Line="7" Column="2" />
+      <File FileName="Assets\continue.js" Line="1" Column="1" />
+      <File FileName="Assets\gz message.js" Line="1" Column="1" />
+      <File FileName="Assets\noise.js" Line="1" Column="1" />
+      <File FileName="Assets\Scene\bubble.js" Line="1" Column="1" />
+      <File FileName="Assets\activation_text.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
