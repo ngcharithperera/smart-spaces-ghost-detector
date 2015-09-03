@@ -26,7 +26,6 @@ public class MyService extends Service {
 	
 	
 	private final Handler handler = new Handler();
-
 	private int numIntent;
 
 	// It's the code we want our Handler to execute to send data
@@ -70,11 +69,7 @@ public class MyService extends Service {
 		private String generateString() {
 			// TODO Auto-generated method stub
 			return null;
-		}
-		
-		
-		
-		
+		}		
 	};
 
 	// When service is started
@@ -217,7 +212,6 @@ public class MyService extends Service {
 								sd += (x - average) * (x - average);
 							}
 							;
-
 							standardDeviation = Math.sqrt(sd / list.size());
 							list.remove(0);
 							total = 0;
@@ -225,16 +219,10 @@ public class MyService extends Service {
 						}
 						return standardDeviation.toString();
 					}
-
-				}).start();
-				
+				}).start();				
 			}
-
 		};
-
 		mBluetoothAdapter.startLeScan(mLeScanCallback);
 		Log.d("MainActivityForTommy", "Scan was started");
-
 	}
-
 }
